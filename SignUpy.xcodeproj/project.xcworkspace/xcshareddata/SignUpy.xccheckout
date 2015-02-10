@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C806A49-61CA-453A-BF12-08046988063D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SignUpy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD036CE054413DD9D4D387DCB56A9A5B7D496D2A</key>
+		<string>github.com:CarletonDevX/signUpy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SignUpy.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD036CE054413DD9D4D387DCB56A9A5B7D496D2A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:CarletonDevX/signUpy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD036CE054413DD9D4D387DCB56A9A5B7D496D2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD036CE054413DD9D4D387DCB56A9A5B7D496D2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>signUpy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
